@@ -12,7 +12,7 @@ I'm currently pursuing a B.Tech in Computer Science, specializing in *Artificial
 # 💻 Tech Toolbox
 Languages: JavaScript, Java, Python, C, C++, TypeScript, bash<br>Frontend: React.js, HTML5, CSS3, Tailwind CSS<br>Backend: Node.js, Express.js<br>Mobile: Android (Java), Swift<br>Databases: Firebase, MongoDB, MySQL<br>Tools: Git, Postman, Docker, Netlify, VS Code, Termux
 <br><br>
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=BarshnD&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BarshnD&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BarshnD&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -20,7 +20,7 @@ Languages: JavaScript, Java, Python, C, C++, TypeScript, bash<br>Frontend: React
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BarshnD&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-# ✍️ Today Quote
+# ✍️ Today's Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 # 🔝 Top Contributed Repo
@@ -33,10 +33,15 @@ Languages: JavaScript, Java, Python, C, C++, TypeScript, bash<br>Frontend: React
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://enlightenmentquotes.quora.com/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:barshanduttassap@gmail.com)
 
-# 💰 Buy me something
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/barshandut4)
-  
-![Visitor Badge](https://visitcount.itsvg.in/api?id=BarshnD&icon=10&color=6)
+## 💰 Buy Me a Coffee
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/barshandut4)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=BarshnD.BarshnD&title=Visitors&color=6&style=flat-square)
+
+
+
+
 
 
 
