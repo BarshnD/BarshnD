@@ -17,7 +17,7 @@ I'm currently pursuing a B.Tech in Computer Science, specializing in *Artificial
 ⚙️ Experience in **MERN stack**, building full-stack systems and REST APIs<br>📱 Android development using **Java** and **Firebase**<br>💻 Built few Java-based full-stack systems on *Swing*<br>👾 Made few RPG games using Godot 3.1<br> 🧪 Explored ethical hacking via **Termux** and bash command-line tools<br>🏆 Won *Best Presenter* for research work at **IRTM 2024** for original research work<br>👨‍⚕️ Currently developing a **Real-time Doctor Booking app** with queue management.
 <br><br>
 # 🗣️ Talk to me in
-🇧🇩 Bengali, 🇬🇧 English, 🇮🇳 Hindi<br>
+🇮🇳 Bengali, 🇬🇧 English, 🇮🇳 Hindi<br>
 Streak on Duolingo: 🇪🇸 Spanish, 🇨🇳 Chinese, 🇯🇵 Japanese, 🇸🇦 Arabic
 <br>
 # 📊 GitHub Stats
