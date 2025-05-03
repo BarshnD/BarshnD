@@ -21,7 +21,7 @@ Languages: JavaScript, Java, Python, C, C++, TypeScript, bash<br>Frontend: React
 ![](https://github-profile-trophy.vercel.app/?username=BarshnD&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 # ✍️ Today's Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BarshnD&limit=5&theme=moltack&combine_all_yearly_contributions=true)
