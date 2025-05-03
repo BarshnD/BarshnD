@@ -1,4 +1,9 @@
-# 👋 <br>![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Hi+there!+I'm+Barshan+Dutta;Full+Stack+%7C+Android+%7C+ML+Developer;Always+learning+and+building!)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello Reader!&height=100&section=header"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Hi+there!+I'm+Barshan+Dutta;Full+Stack+%7C+Android+%7C+ML+Developer;Always+learning+and+building!" alt="Typing SVG" />
+</p>
 🎓 CS Engineering Student | 💻 Full Stack Developer | 📱 Android Developer<br>
 I'm currently pursuing a B.Tech in Computer Science, specializing in *Artificial Intelligence & Machine Learning*, with a strong foundation in *Data Structures & Algorithms*.<br>
 🏫 Saint Xavier's School, Raiganj -> Sri Sri Academy, Kolkata -> UEMK, Kolkata....
